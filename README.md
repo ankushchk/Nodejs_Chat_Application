@@ -4,4 +4,11 @@ This is a real time chat application using nodejs and socket.io
 
 //node_modules
 
-npm i socket.io
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         
+                                                         npm i socket.io
